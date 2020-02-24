@@ -15,12 +15,12 @@ npm install --save react-bootstrap-alert
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-bootstrap-alert'
+import Alert from 'react-bootstrap-alert'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Alert text="My Text" type="danger" />
     )
   }
 }

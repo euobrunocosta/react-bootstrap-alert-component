@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-bootstrap-alert'
+import Alert from 'react-bootstrap-alert'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <div className="container p-3">
+          <Alert text='Bootstrap Alert' type='info' />
+        </div>
       </div>
     )
   }
