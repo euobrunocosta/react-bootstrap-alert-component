@@ -1,0 +1,8 @@
+{
+  "short_name": "react-bootstrap-alert",
+  "name": "react-bootstrap-alert",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
