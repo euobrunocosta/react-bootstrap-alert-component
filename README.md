@@ -1,8 +1,8 @@
-# react-bootstrap-alert
+# React Bootstrap Alert Component
 
-> Easily create a bootstrap alert
+> ReactJS plugin that lets you easily create a bootstrap alert component
 
-[![NPM](https://img.shields.io/npm/v/react-bootstrap-alert.svg)](https://www.npmjs.com/package/react-bootstrap-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-bootstrap-alert-component.svg)](https://www.npmjs.com/package/react-bootstrap-alert-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
