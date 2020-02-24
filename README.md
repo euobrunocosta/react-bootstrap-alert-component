@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-bootstrap-alert
+npm install --save react-bootstrap-alert-component
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save react-bootstrap-alert
 ```jsx
 import React, { Component } from 'react'
 
-import Alert from 'react-bootstrap-alert'
+import Alert from 'react-bootstrap-alert-component'
 
 class Example extends Component {
   render () {
